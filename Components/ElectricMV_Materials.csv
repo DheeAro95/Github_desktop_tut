@@ -1,0 +1,9 @@
+Code,Name,Color,Density,Modulus,Poisson,Sy,Su,SKU,TXT
+Jacket,ElecMV-Jacket,Black,940,200,0.4,25,25,,
+Tape3,ElecMV-Tape3,Green,850,200,0.4,20,20,,
+Screen3,ElecMV-Screen3,OrangeRed,8890,97200,0.16,163.5,236.4,,
+Tape2,ElecMV-Tape2,LightCyan,0,0,0,0,0,,
+Screen2,ElecMV-Screen2,Black,940,800,0.4,20,20,,
+Insulation2,ElecMV-Insulation2,LightGray,940,800,0.4,20,20,,
+Insulation1,ElecMV-Insulation1,Black,940,800,0.4,20,20,,
+Strand,ElecMV-Strand,OrangeRed,8960,49770,0.36,177.64,246.5,,
