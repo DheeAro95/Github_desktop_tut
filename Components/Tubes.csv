@@ -1,0 +1,115 @@
+BR,US,UK,Category,Kind,ID,WT,DP,Name,Color,SKU,TXT,Density,Modulus,Poisson,Sy,Su
+,,x,Super Duplex,Alleima SAF 2507,9.53,1.2,12500,"SSD 3/8"" 12K5",DarkGray,,TUBE  [Alleima SAF 2507] 9.53 x 1.20 mm @ 12.5ksi,7800,200000,0.3,710,850
+,,x,Super Duplex,Alleima SAF 2507,12.7,1,7500,"SSD 1/2"" 7K5",DarkGray,88102333,TUBE  [Alleima SAF 2507] 12.70 x 1.00 mm @ 7.5ksi,7800,200000,0.3,710,850
+,,x,Super Duplex,Alleima SAF 2507,12.7,1.19,10000,"SSD 1/2"" 10K",DarkGray,12345678,TUBE  [Alleima SAF 2507] 12.70 x 1.19 mm @ 10ksi,7800,200000,0.3,710,850
+,,x,Super Duplex,Alleima SAF 2507,15.88,1,5000,"SSD 5/8"" 5K",DarkGray,,TUBE  [Alleima SAF 2507] 15.88 x 1.00 mm @ 5ksi,7800,200000,0.3,710,850
+,,x,Super Duplex,Alleima SAF 2507,15.88,1.04,7500,"SSD 5/8"" 7K5",DarkGray,,TUBE  [Alleima SAF 2507] 15.88 x 1.00 mm @ 7.5ksi,7800,200000,0.3,710,850
+,,x,Super Duplex,Alleima SAF 2507,15.88,1.49,10000,"SSD 5/8"" 10K",DarkGray,,TUBE  [Alleima SAF 2507] 15.88 x 1.49 mm @ 10ksi,7800,200000,0.3,710,850
+,,x,Super Duplex,Alleima SAF 2507,19.05,1.1,5000,"SSD 3/4"" 5K",DarkGray,88122398,TUBE  [Alleima SAF 2507] 19.05 x 1.10 mm @ 5ksi,7800,200000,0.3,690,850
+,,x,Super Duplex,Alleima SAF 2507,19.05,1.29,7500,"SSD 3/4"" 7K5",DarkGray,12345678,TUBE  [Alleima SAF 2507] 19.05 x 1.29 mm @ 7.5ksi,7800,200000,0.3,690,850
+,,x,Super Duplex,Alleima SAF 2507,19.05,1.85,10000,"SSD 3/4"" 10K",DarkGray,88195225,TUBE  [Alleima SAF 2507] 19.05 x 1.88 mm @ 10ksi,7800,200000,0.3,690,850
+,,x,Super Duplex,Alleima SAF 2507,25.4,1.3,5000,"SSD 1"" 5K",DarkGray,88120856,TUBE  [Alleima SAF 2507] 25.40 x 1.30 mm @ 5ksi,7800,200000,0.3,690,850
+,,x,Super Duplex,Alleima SAF 2507,25.4,1.72,7500,"SSD 1"" 7K5",DarkGray,88138906,TUBE  [Alleima SAF 2507] 25.40 x 1.75 mm @ 7.5ksi,7800,200000,0.3,690,850
+,,x,Super Duplex,Alleima SAF 2507,25.4,2.46,10000,"SSD 1"" 10K",DarkGray,88199043,TUBE  [Alleima SAF 2507] 25.40 x 2.66 mm @ 10ksi,7800,200000,0.3,690,850
+,,x,Super Duplex,Alleima SAF 2507,31.75,1.39,5000,"SSD 1 1/4"" 5K",DarkGray,88125213,TUBE  [Alleima SAF 2507] 31.75 x 1.39 mm @ 5ksi,7800,200000,0.3,670,850
+,,x,Super Duplex,Alleima SAF 2507,31.75,2.23,7500,"SSD 1 1/4"" 7K5",DarkGray,,TUBE  [Alleima SAF 2507] 31.75 x 2.23 mm @ 7.5ksi,7800,200000,0.3,670,850
+,,x,Super Duplex,Alleima SAF 2507,31.75,3.19,10000,"SSD 1 1/4"" 10K",DarkGray,,TUBE  [Alleima SAF 2507] 31.75 x 3.19 mm @ 10ksi,7800,200000,0.3,670,850
+,,x,Super Duplex,Alleima SAF 2507,38.1,2,5000,"SSD 1 1/2"" 5K",DarkGray,,TUBE  [Alleima SAF 2507] 38.10 x 2.00 mm @ 5ksi,7800,200000,0.3,670,850
+,,x,Super Duplex,Alleima SAF 2507,38.1,2.67,7500,"SSD 1 1/2"" 7K5",DarkGray,,TUBE  [Alleima SAF 2507] 38.10 x 2.67 mm @ 7.5ksi,7800,200000,0.3,670,850
+,,x,Super Duplex,Alleima SAF 2507,38.1,3.83,10000,"SSD 1 1/2"" 10K",DarkGray,,TUBE  [Alleima SAF 2507] 38.10 x 3.83 mm @ 10ksi,7800,200000,0.3,670,850
+x,x,x,Super Duplex,Webco UNS 32760,9.53,1,10000,"WSD 3/8"" 10K",DarkGray,,TUBE  [Webco UNS 32760] 9.53 x 1.00 mm @ 10ksi,7800,200000,0.3,750,850
+x,x,x,Super Duplex,Webco UNS 32760,9.53,1.39,15000,"WSD 3/8"" 15K",DarkGray,,TUBE  [Webco UNS 32760] 9.53 x 1.39 mm @ 15ksi,7800,200000,0.3,750,850
+x,x,x,Super Duplex,Webco UNS 32760,12.7,1,7500,"WSD 1/2"" 7K5",DarkGray,,TUBE  [Webco UNS 32760] 12.70 x 1.00 mm @ 7.5ksi,7800,200000,0.3,750,850
+x,x,x,Super Duplex,Webco UNS 32760,12.7,1.07,10000,"WSD 1/2"" 10K",DarkGray,,TUBE  [Webco UNS 32760] 12.70 x 1.07 mm @ 10ksi,7800,200000,0.3,750,850
+x,x,x,Super Duplex,Webco UNS 32760,12.7,1.86,15000,"WSD 1/2"" 15K",DarkGray,,TUBE  [Webco UNS 32760] 12.70 x 1.86 mm @ 15ksi,7800,200000,0.3,730,850
+x,x,x,Super Duplex,Webco UNS 32760,15.88,1,7500,"WSD 5/8"" 7K5",DarkGray,,TUBE  [Webco UNS 32760] 15.88 x 1.04 mm @ 7.5ksi,7800,200000,0.3,750,850
+x,x,x,Super Duplex,Webco UNS 32760,15.88,1.34,10000,"WSD 5/8"" 10K",DarkGray,,TUBE  [Webco UNS 32760] 15.88 x 1.34 mm @ 10ksi,7800,200000,0.3,750,850
+x,x,x,Super Duplex,Webco UNS 32760,15.88,2.32,15000,"WSD 5/8"" 15K",DarkGray,,TUBE  [Webco UNS 32760] 15.88 x 2.32 mm @ 15ksi,7800,200000,0.3,730,850
+x,x,x,Super Duplex,Webco UNS 32760,19.05,1.1,5000,"WSD 3/4"" 5K",DarkGray,,TUBE  [Webco UNS 32760] 19.05 x 1.10 mm @ 5ksi,7800,200000,0.3,750,850
+x,x,x,Super Duplex,Webco UNS 32760,19.05,1.14,7500,"WSD 3/4"" 7K5",DarkGray,,TUBE  [Webco UNS 32760] 19.05 x 1.14 mm @ 7.5ksi,7800,200000,0.3,750,850
+x,x,x,Super Duplex,Webco UNS 32760,19.05,1.66,10000,"WSD 3/4"" 10K",DarkGray,,TUBE  [Webco UNS 32760] 19.05 x 1.66 mm @ 10ksi,7800,200000,0.3,730,850
+x,x,x,Super Duplex,Webco UNS 32760,19.05,2.9,15000,"WSD 3/4"" 15K",DarkGray,,TUBE  [Webco UNS 32760] 19.05 x 2.90 mm @ 15ksi,7800,200000,0.3,710,850
+x,x,x,Super Duplex,Webco UNS 32760,25.4,1.3,5000,"WSD 1"" 5K",DarkGray,,TUBE  [Webco UNS 32760] 24.40 x 1.30 mm @ 5ksi,7800,200000,0.3,730,850
+x,x,x,Super Duplex,Webco UNS 32760,25.4,1.56,7500,"WSD 1"" 7K5",DarkGray,,TUBE  [Webco UNS 32760] 25.40 x 1.56 mm @ 7.5ksi,7800,200000,0.3,730,850
+x,x,x,Super Duplex,Webco UNS 32760,25.4,2.15,10000,"WSD 1"" 10K",DarkGray,,TUBE  [Webco UNS 32760] 25.40 x 2.15 mm @ 10ksi,7800,200000,0.3,730,850
+x,x,x,Super Duplex,Webco UNS 32760,25.4,3.87,15000,"WSD 1"" 15K",DarkGray,,TUBE  [Webco UNS 32760] 25.40 x 3.87 mm @ 15ksi,7800,200000,0.3,710,850
+x,x,x,Super Duplex,Webco UNS 32760,31.75,1.5,5000,"WSD 1 1/4"" 5K",DarkGray,,TUBE  [Webco UNS 32760] 31.75 x 1.50 mm @ 5ksi,7800,200000,0.3,730,850
+x,x,x,Super Duplex,Webco UNS 32760,31.75,1.96,7500,"WSD 1 1/4"" 7K5",DarkGray,,TUBE  [Webco UNS 32760] 31.75 x 1.96 mm @ 7.5ksi,7800,200000,0.3,710,850
+x,x,x,Super Duplex,Webco UNS 32760,31.75,2.78,10000,"WSD 1 1/4"" 10K",DarkGray,,TUBE  [Webco UNS 32760] 31.75 x 2.78 mm @ 10ksi,7800,200000,0.3,710,850
+x,x,x,Super Duplex,Webco UNS 32760,38.1,2,5000,"WSD 1 1/2"" 5K",DarkGray,,TUBE  [Webco UNS 32760] 38.1 x 2.00 mm @ 5ksi,7800,200000,0.3,710,850
+x,x,x,Super Duplex,Webco UNS 32760,38.1,2.35,7500,"WSD 1 1/2"" 7K5",DarkGray,,TUBE  [Webco UNS 32760] 38.10 x 2.35 mm @ 7.5ksi,7800,200000,0.3,710,850
+x,x,x,Super Duplex,Webco UNS 32760,38.1,3.34,10000,"WSD 1 1/2"" 10K",DarkGray,,TUBE  [Webco UNS 32760] 38.1 x 3.34 mm @ 10ksi,7800,200000,0.3,710,850
+x,x,x,Super Duplex,Webco UNS 32760,50.8,2.7,5000,"WSD 2"" 5K",DarkGray,,TUBE  [Webco UNS 32760] 50.8 x 2.70 mm @ 5ksi,7800,200000,0.3,710,850
+x,x,x,Super Duplex,Webco UNS 32760,50.8,3.13,7500,"WSD 2"" 7K5",DarkGray,,TUBE  [Webco UNS 32760] 50.8 x 3.13 mm @ 7.5ksi,7800,200000,0.3,710,850
+x,x,x,Super Duplex,Webco UNS 32750,9.53,1,10000,"WSD 3/8"" 10K",DarkGray,,TUBE  [Webco UNS 32750] 9.53 x 1.00 mm @ 10ksi,7800,200000,0.3,750,850
+x,x,x,Super Duplex,Webco UNS 32750,9.53,1.39,15000,"WSD 3/8"" 15K",DarkGray,,TUBE  [Webco UNS 32750] 9.53 x 1.39 mm @ 15ksi,7800,200000,0.3,750,850
+x,x,x,Super Duplex,Webco UNS 32750,12.7,1,7500,"WSD 1/2"" 7K5",DarkGray,,TUBE  [Webco UNS 32750] 12.70 x 1.00 mm @ 7.5ksi,7800,200000,0.3,750,850
+x,x,x,Super Duplex,Webco UNS 32750,12.7,1.07,10000,"WSD 1/2"" 10K",DarkGray,,TUBE  [Webco UNS 32750] 12.70 x 1.07 mm @ 10ksi,7800,200000,0.3,750,850
+x,x,x,Super Duplex,Webco UNS 32750,12.7,1.86,15000,"WSD 1/2"" 15K",DarkGray,,TUBE  [Webco UNS 32750] 12.70 x 1.86 mm @ 15ksi,7800,200000,0.3,730,850
+x,x,x,Super Duplex,Webco UNS 32750,15.88,1,7500,"WSD 5/8"" 7K5",DarkGray,,TUBE  [Webco UNS 32750] 15.88 x 1.04 mm @ 7.5ksi,7800,200000,0.3,750,850
+x,x,x,Super Duplex,Webco UNS 32750,15.88,1.34,10000,"WSD 5/8"" 10K",DarkGray,,TUBE  [Webco UNS 32750] 15.88 x 1.34 mm @ 10ksi,7800,200000,0.3,750,850
+x,x,x,Super Duplex,Webco UNS 32750,15.88,2.32,15000,"WSD 5/8"" 15K",DarkGray,,TUBE  [Webco UNS 32750] 15.88 x 2.32 mm @ 15ksi,7800,200000,0.3,730,850
+x,x,x,Super Duplex,Webco UNS 32750,19.05,1.1,5000,"WSD 3/4"" 5K",DarkGray,,TUBE  [Webco UNS 32750] 19.05 x 1.10 mm @ 5ksi,7800,200000,0.3,750,850
+x,x,x,Super Duplex,Webco UNS 32750,19.05,1.14,7500,"WSD 3/4"" 7K5",DarkGray,,TUBE  [Webco UNS 32750] 19.05 x 1.14 mm @ 7.5ksi,7800,200000,0.3,750,850
+x,x,x,Super Duplex,Webco UNS 32750,19.05,1.66,10000,"WSD 3/4"" 10K",DarkGray,,TUBE  [Webco UNS 32750] 19.05 x 1.66 mm @ 10ksi,7800,200000,0.3,730,850
+x,x,x,Super Duplex,Webco UNS 32750,19.05,2.9,15000,"WSD 3/4"" 15K",DarkGray,,TUBE  [Webco UNS 32750] 19.05 x 2.90 mm @ 15ksi,7800,200000,0.3,710,850
+x,x,x,Super Duplex,Webco UNS 32750,25.4,1.3,5000,"WSD 1"" 5K",DarkGray,,TUBE  [Webco UNS 32750] 24.40 x 1.30 mm @ 5ksi,7800,200000,0.3,730,850
+x,x,x,Super Duplex,Webco UNS 32750,25.4,1.56,7500,"WSD 1"" 7K5",DarkGray,,TUBE  [Webco UNS 32750] 25.40 x 1.56 mm @ 7.5ksi,7800,200000,0.3,730,850
+x,x,x,Super Duplex,Webco UNS 32750,25.4,2.15,10000,"WSD 1"" 10K",DarkGray,,TUBE  [Webco UNS 32750] 25.40 x 2.15 mm @ 10ksi,7800,200000,0.3,730,850
+x,x,x,Super Duplex,Webco UNS 32750,25.4,3.87,15000,"WSD 1"" 15K",DarkGray,,TUBE  [Webco UNS 32750] 25.40 x 3.87 mm @ 15ksi,7800,200000,0.3,710,850
+x,x,x,Super Duplex,Webco UNS 32750,31.75,1.5,5000,"WSD 1 1/4"" 5K",DarkGray,,TUBE  [Webco UNS 32750] 31.75 x 1.50 mm @ 5ksi,7800,200000,0.3,730,850
+x,x,x,Super Duplex,Webco UNS 32750,31.75,1.96,7500,"WSD 1 1/4"" 7K5",DarkGray,,TUBE  [Webco UNS 32750] 31.75 x 1.96 mm @ 7.5ksi,7800,200000,0.3,710,850
+x,x,x,Super Duplex,Webco UNS 32750,31.75,2.78,10000,"WSD 1 1/4"" 10K",DarkGray,,TUBE  [Webco UNS 32750] 31.75 x 2.78 mm @ 10ksi,7800,200000,0.3,710,850
+x,x,x,Super Duplex,Webco UNS 32750,38.1,2,5000,"WSD 1 1/2"" 5K",DarkGray,,TUBE  [Webco UNS 32750] 38.1 x 2.00 mm @ 5ksi,7800,200000,0.3,710,850
+x,x,x,Super Duplex,Webco UNS 32750,38.1,2.35,7500,"WSD 1 1/2"" 7K5",DarkGray,,TUBE  [Webco UNS 32750] 38.10 x 2.35 mm @ 7.5ksi,7800,200000,0.3,710,850
+x,x,x,Super Duplex,Webco UNS 32750,38.1,3.34,10000,"WSD 1 1/2"" 10K",DarkGray,,TUBE  [Webco UNS 32750] 38.1 x 3.34 mm @ 10ksi,7800,200000,0.3,710,850
+x,x,x,Super Duplex,Webco UNS 32750,50.8,2.7,5000,"WSD 2"" 5K",DarkGray,,TUBE  [Webco UNS 32750] 50.8 x 2.70 mm @ 5ksi,7800,200000,0.3,710,850
+x,x,x,Super Duplex,Webco UNS 32750,50.8,3.13,7500,"WSD 2"" 7K5",DarkGray,,TUBE  [Webco UNS 32750] 50.8 x 3.13 mm @ 7.5ksi,7800,200000,0.3,710,850
+x,x,x,Duplex,Webco UNS 32250,9.53,1,7500,"WD 3/8"" 7.5K",DarkGray,,TUBE  [Webco UNS 32250] 9.53 x 1.00 mm @ 7.5ksi,7800,200000,0.3,621,850
+x,x,x,Duplex,Webco UNS 32250,9.53,1.02,10000,"WD 3/8"" 10K",DarkGray,,TUBE  [Webco UNS 32250] 9.53 x 1.02 mm @ 10ksi,7800,200000,0.3,621,850
+x,x,x,Duplex,Webco UNS 32250,12.7,1,7500,"WD 1/2"" 7K5",DarkGray,,TUBE  [Webco UNS 32250] 12.70 x 1.00 mm @ 7.5ksi,7800,200000,0.3,621,850
+x,x,x,Duplex,Webco UNS 32250,12.7,1.36,10000,"WD 1/2"" 10K",DarkGray,,TUBE  [Webco UNS 32250] 12.70 x 1.36 mm @ 10ksi,7800,200000,0.3,621,850
+x,x,x,Duplex,Webco UNS 32250,15.88,1,5000,"WD 5/8"" 5K",DarkGray,,TUBE  [Webco UNS 32250] 15.88 x 1.00 mm @ 5ksi,7800,200000,0.3,621,850
+x,x,x,Duplex,Webco UNS 32250,15.88,1.18,7500,"WD 5/8"" 7K5",DarkGray,,TUBE  [Webco UNS 32250] 15.88 x 1.18 mm @ 7.5ksi,7800,200000,0.3,621,850
+x,x,x,Duplex,Webco UNS 32250,15.88,1.7,10000,"WD 5/8"" 10K",DarkGray,,TUBE  [Webco UNS 32250] 15.88 x 1.70 mm @ 10ksi,7800,200000,0.3,621,850
+x,x,x,Duplex,Webco UNS 32250,19.05,1,5000,"WD 3/4"" 5K",DarkGray,,TUBE  [Webco UNS 32250] 19.05 x 1.00 mm @ 5ksi,7800,200000,0.3,621,850
+x,x,x,Duplex,Webco UNS 32250,19.05,1.42,7500,"WD 3/4"" 7K5",DarkGray,,TUBE  [Webco UNS 32250] 19.05 x 1.42 mm @ 7.5ksi,7800,200000,0.3,621,850
+x,x,x,Duplex,Webco UNS 32250,19.05,2.04,10000,"WD 3/4"" 10K",DarkGray,,TUBE  [Webco UNS 32250] 19.05 x 2.04 mm @ 10ksi,7800,200000,0.3,621,850
+x,x,x,Duplex,Webco UNS 32250,25.4,1.17,5000,"WD 1"" 5K",DarkGray,,TUBE  [Webco UNS 32250] 24.40 x 1.17 mm @ 5ksi,7800,200000,0.3,621,850
+x,x,x,Duplex,Webco UNS 32250,25.4,1.89,7500,"WD 1"" 7K5",DarkGray,,TUBE  [Webco UNS 32250] 25.40 x 1.89 mm @ 7.5ksi,7800,200000,0.3,621,850
+x,x,x,Duplex,Webco UNS 32250,25.4,2.73,10000,"WD 1"" 10K",DarkGray,,TUBE  [Webco UNS 32250] 25.40 x 2.73 mm @ 10ksi,7800,200000,0.3,621,850
+x,x,x,Duplex,Webco UNS 32250,31.75,1.56,5000,"WD 1 1/4"" 5K",DarkGray,,TUBE  [Webco UNS 32250] 31.75 x 1.56 mm @ 5ksi,7800,200000,0.3,587,759
+x,x,x,Duplex,Webco UNS 32250,31.75,2.53,7500,"WD 1 1/4"" 7K5",DarkGray,,TUBE  [Webco UNS 32250] 31.75 x 2.53 mm @ 7.5ksi,7800,200000,0.3,587,759
+x,x,x,Duplex,Webco UNS 32250,31.75,3.67,10000,"WD 1 1/4"" 10K",DarkGray,,TUBE  [Webco UNS 32250] 31.75 x 3.67 mm @ 10ksi,7800,200000,0.3,587,759
+x,x,x,Duplex,Webco UNS 32250,38.1,1.87,5000,"WD 1 1/2"" 5K",DarkGray,,TUBE  [Webco UNS 32250] 38.1 x 1.87 mm @ 5ksi,7800,200000,0.3,587,759
+x,x,x,Duplex,Webco UNS 32250,38.1,3.03,7500,"WD 1 1/2"" 7K5",DarkGray,,TUBE  [Webco UNS 32250] 38.10 x 3.03 mm @ 7.5ksi,7800,200000,0.3,587,759
+x,x,x,Duplex,Webco UNS 32250,38.1,4.41,10000,"WD 1 1/2"" 10K",DarkGray,,TUBE  [Webco UNS 32250] 38.1 x 4.41 mm @ 10ksi,7800,200000,0.3,587,759
+x,x,x,Duplex,Webco UNS 32250,50.8,2.5,5000,"WD 2"" 5K",DarkGray,,TUBE  [Webco UNS 32250] 50.8 x 2.50 mm @ 5ksi,7800,200000,0.3,587,759
+x,x,x,Duplex,Webco UNS 32250,50.8,4.04,7500,"WD 2"" 7K5",DarkGray,,TUBE  [Webco UNS 32250] 50.8 x 4.04 mm @ 7.5ksi,7800,200000,0.3,587,759
+,x,x,Super Duplex,Vallourec UNS 32750,12.7,1,7500,"VSD 1/2"" 7K5",DarkGray,,TUBE  [Valourec UNS 32750] 12.7 x 1.00 mm @ 7.5ksi,7800,200000,0.3,750,900
+,x,x,Super Duplex,Vallourec UNS 32750,12.7,1.14,10000,"VSD 1/2"" 10K",DarkGray,,TUBE  [Valourec UNS 32750] 12.7 x 1.14 mm @ 10ksi,7800,200000,0.3,750,900
+,x,x,Super Duplex,Vallourec UNS 32750,12.7,1.81,15000,"VSD 1/2"" 15K",DarkGray,,TUBE  [Valourec UNS 32750] 12.7 x 1.81 mm @ 15ksi,7800,200000,0.3,750,900
+,x,x,Super Duplex,Vallourec UNS 32750,15.88,1,7500,"VSD 5/8"" 7K5",DarkGray,,TUBE  [Valourec UNS 32750] 15.88 x 1.00 mm @ 7.5ksi,7800,200000,0.3,750,900
+,x,x,Super Duplex,Vallourec UNS 32750,15.88,1.42,10000,"VSD 5/8"" 10K",DarkGray,,TUBE  [Valourec UNS 32750] 15.88 x 1.42 mm @ 10ksi,7800,200000,0.3,750,900
+,x,x,Super Duplex,Vallourec UNS 32750,15.88,2.25,15000,"VSD 5/8"" 15K",DarkGray,,TUBE  [Valourec UNS 32750] 15.88 x 2.25 mm @ 15ksi,7800,200000,0.3,750,900
+,x,x,Super Duplex,Vallourec UNS 32750,19.05,1.06,3000,"VSD 3/4"" 3K",DarkGray,,TUBE  [Valourec UNS 32750] 19.05 x 1.06 mm @ 3ksi,7800,200000,0.3,750,900
+,x,x,Super Duplex,Vallourec UNS 32750,19.05,1.14,5000,"VSD 3/4"" 5K",DarkGray,,TUBE  [Valourec UNS 32750] 19.05 x 1.14 mm @ 5ksi,7800,200000,0.3,750,900
+,x,x,Super Duplex,Vallourec UNS 32750,19.05,1.25,7500,"VSD 3/4"" 7K5",DarkGray,,TUBE  [Valourec UNS 32750] 19.05 x 1.25 mm @ 7.5ksi,7800,200000,0.3,750,900
+,x,x,Super Duplex,Vallourec UNS 32750,19.05,1.7,10000,"VSD 3/4"" 10K",DarkGray,,TUBE  [Valourec UNS 32750] 19.05 x 1.70 mm @ 10ksi,7800,200000,0.3,750,900
+,x,x,Super Duplex,Vallourec UNS 32750,19.05,2.7,15000,"VSD 3/4"" 15K",DarkGray,,TUBE  [Valourec UNS 32750] 19.05 x 2.70 mm @ 15ksi,7800,200000,0.3,750,900
+,x,x,Super Duplex,Vallourec UNS 32750,25.4,1.42,5000,"VSD 1"" 5K",DarkGray,,TUBE  [Valourec UNS 32750] 25.40 x 1.42 mm @ 5ksi,7800,200000,0.3,750,900
+,x,x,Super Duplex,Vallourec UNS 32750,25.4,1.66,7500,"VSD 1"" 7K5",DarkGray,,TUBE  [Valourec UNS 32750] 25.40 x 1.66 mm @ 7.5ksi,7800,200000,0.3,750,900
+,x,x,Super Duplex,Vallourec UNS 32750,25.4,2.27,10000,"VSD 1"" 10K",DarkGray,,TUBE  [Valourec UNS 32750] 25.40 x 2.27 mm @ 10ksi,7800,200000,0.3,750,900
+,x,x,Super Duplex,Vallourec UNS 32750,25.4,3.59,15000,"VSD 1"" 15K",DarkGray,,TUBE  [Valourec UNS 32750] 25.40 x 3.59 mm @ 15ksi,7800,200000,0.3,750,900
+,x,x,Super Duplex,Vallourec UNS 32750,31.75,1.77,5000,"VSD 1 1/4"" 5K",DarkGray,,TUBE  [Valourec UNS 32750] 31.75 x 1.77 mm @ 5ksi,7800,200000,0.3,750,900
+,x,x,Super Duplex,Vallourec UNS 32750,31.75,2.27,7500,"VSD 1 1/4"" 7K5",DarkGray,,TUBE  [Valourec UNS 32750] 31.75 x 2.27 mm @ 7.5ksi,7800,200000,0.3,750,900
+,x,x,Super Duplex,Vallourec UNS 32750,31.75,2.83,10000,"VSD 1 1/4"" 10K",DarkGray,,TUBE  [Valourec UNS 32750] 31.75 x 2.83 mm @ 10ksi,7800,200000,0.3,750,900
+,x,x,Super Duplex,Vallourec UNS 32750,31.75,4.49,15000,"VSD 1 1/4"" 15K",DarkGray,,TUBE  [Valourec UNS 32750] 31.75 x 4.49 mm @ 15ksi,7800,200000,0.3,750,900
+,x,x,Super Duplex,Vallourec UNS 32750,38.1,2.12,5000,"VSD 1 1/2"" 5K",DarkGray,,TUBE  [Valourec UNS 32750] 38.10 x 2.12 mm @ 5ksi,7800,200000,0.3,750,900
+,x,x,Super Duplex,Vallourec UNS 32750,38.1,2.49,7500,"VSD 1 1/2"" 7K5",DarkGray,,TUBE  [Valourec UNS 32750] 38.10 x 2.49 mm @ 7.5ksi,7800,200000,0.3,750,900
+,x,x,Super Duplex,Vallourec UNS 32750,38.1,3.39,10000,"VSD 1 1/2"" 10K",DarkGray,,TUBE  [Valourec UNS 32750] 38.10 x 3.39 mm @ 10ksi,7800,200000,0.3,750,900
+,x,x,Super Duplex,Vallourec UNS 32750,38.1,5.38,15000,"VSD 1 1/2"" 15K",DarkGray,,TUBE  [Valourec UNS 32750] 38.10 x 5.38 mm @ 15ksi,7800,200000,0.3,750,900
+,x,x,Super Duplex,Vallourec UNS 32750,50.8,2.83,5000,"VSD 2"" 5K",DarkGray,,TUBE  [Valourec UNS 32750] 50.80 x 2.83 mm @ 5ksi,7800,200000,0.3,750,900
+,x,x,Super Duplex,Vallourec UNS 32750,50.8,3.3,7500,"VSD 2"" 7K5",DarkGray,,TUBE  [Valourec UNS 32750] 50.80 x 3.30 mm @ 7.5ksi,7800,200000,0.3,750,900
+,x,x,Super Duplex,Vallourec UNS 32750,50.8,4.52,10000,"VSD 2"" 10K",DarkGray,,TUBE  [Valourec UNS 32750] 50.80 x 4.52 mm @ 10ksi,7800,200000,0.3,750,900
+,x,x,Super Duplex,Vallourec UNS 32750,50.8,7.17,15000,"VSD 2"" 15K",DarkGray,,TUBE  [Valourec UNS 32750] 50.80 x 7.17 mm @ 15ksi,7800,200000,0.3,750,900
